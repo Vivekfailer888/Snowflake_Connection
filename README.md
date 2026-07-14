@@ -1,7 +1,7 @@
 # Snowflake_Connection
 # Connecting Snowflake with  AWS[ S3 Bucket, IAM ] as a Cloud Infrastructure[Storage]
 # CREATE A SNOWFLAKE CONSOLE.
-Step 1- Create a snowflake account and Login.
+Step 1- Create a snowflake account and Login./n
 Step 2- Go to Manage -> Compute -> Warehouses.
 Step 3- Create a warehouse by clicking on [+Warehouse] and Give the specification that is needed.
 # CREATE  AWS CLOUD STORAGE.
